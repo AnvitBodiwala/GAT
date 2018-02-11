@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.0,
+              5.0
+            ],
+            [
+              5.0,
+              5.0
+            ],
+            [
+              5.0,
+              1.0
+            ],
+            [
+              3.0,
+              3.0
+            ],
+            [
+              1.0,
+              1.0
+            ],
+            [
+              1.0,
+              5.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "FIRST_FLD": "First",
+        "SECOND_FLD": "Polygon"
+      }
+    }
+  ]
+}
