@@ -77,10 +77,14 @@ def runGSA(case_num, autocorrelationRows, autocorrelationCols, sdRows, sdCols, i
 
 def geoNetwork(case_num):
     fileDict = dao.getFileDict(case_num)
-    outputShape = network.create_network(fileDict['Geonet_Input_Streets'], fileDict['Geonet_Input_Crimes'])
-    geojson.convert(outputShape + '.shp')
+    #outputShape = network.create_network(fileDict['Geonet_Input_Streets'], fileDict['Geonet_Input_Crimes'])
+    outputShape = fileDict['Geonet_Input_Streets']
+    #geojson.convert(outputShape + '.shp')
+    print("IN HERE")
+    geojson.convert(outputShape)
     #can modify filedict in here so that you can access the files in visualization.py
     #call ur code in here
+
     return fileDict
 
 def emoSpace(case_num):

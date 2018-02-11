@@ -88,5 +88,5 @@ application.register_blueprint(nlp_blueprint)
 application.secret_key = 'na3928ewafds'
 
 if __name__ == "__main__":
-    application.debug = False
+    application.debug = True
     application.run(host='127.0.0.1', threaded=False, port=5000)

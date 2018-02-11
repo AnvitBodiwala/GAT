@@ -17,35 +17,45 @@
     <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"
             integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log=="
             crossorigin=""></script>
+    <script type="text/javascript" src="{{url_for('static', filename='js/d3.v4.min.js')}}"></script>
 
     <script type="text/javascript">
 
         $(document).ready(function() {
 
             var mymap = L.map('mapid', {
-                center: [33.4152, -111.8315],
-                zoom: 15
+                //center: [33.4152, -111.8315],
+                //zoom: 15
+                center: [0, 0],
+                zoom: 1  
             });
-
+            /*
             L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
                 attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
                 maxZoom: 18,
                 id: 'mapbox.streets',
                 accessToken: 'pk.eyJ1IjoibGVzc3dpZmkiLCJhIjoiY2o5cW5sYnQ5NjFncDMzcW1mb2RzamczZiJ9.XiG9QFM9t3ZdurQl31BU0g'
             }).addTo(mymap);
-
+            */
             $.getJSON('../static/mygeodata/demo.json', function(data) {
 
                 var features = data.features;
-
                 L.geoJSON(features, {
                     style: function(feature) {
-                        if (feature.properties.NUM_CRIMES > 5){
+                        /*if (feature.properties.NUM_CRIMES > 5){
                             return {color: "#ff0000"};
                         }
                         else{
                             return {color: "#0000ff"};
-                        }
+                        }*/
+                        //var svgContainer = d3.select("body").select("mapid").select("div").select("div").select("svg");
+                        /*var svgContainer = d3.select("body").select("svg");
+                        for (var i = 0; i < feature.geometry.coordinates[0].length; i++){
+                            //svgContainer.append("circle").attr("cx", feature.geometry.coordinates[0][i][0]).attr("cy", feature.geometry.coordinates[0][i][1]).style("fill", "purple").style("fill-opacity", .5).style("r", 200);
+                            d3.select("body").select("svg").append("circle").attr("cx", 0).attr("cy", 0).style("fill", "purple").style("fill-opacity", .5).style("r", 200);
+                            console.log("TEST");
+
+                        }*/
                     }
                 }).bindPopup(function (layer) {
                     return JSON.stringify(layer.feature.properties);
@@ -58,6 +68,51 @@
     </script>
 
     <div id="mapid"></div>
+    <script type="text/javascript">
+                $(document).ready(function() {
+                    var mymap = document.getElementById("mapid");
+                    $.getJSON('../static/mygeodata/demo.json', function(data) {
+
+                var features = data.features;
+                L.geoJSON(features, {
+                    style: function(feature) {
+
+                        var svgContainer = d3.select("body").select("svg");
+                        var svg = $("path");
+                        var str = svg.attr("d");
+                        var str2 = str.split(" ");
+                        str2[0] = str2[0].substring(1,4);
+                        str2[str2.length-1] = str2[str2.length-1].substring(0,3);
+                        for (var j = 1 ; j< str2.length-1 ; j++){
+                            str2[j] = str2[j].split("L");
+                        }
+                        var merged = [].concat.apply([], str2);
+                        $(".leaflet-control-zoom-in").attr("onclick", "setTimeout(updateCoordinates , 300)")
+                        $(".leaflet-control-zoom-out").attr("onclick", "setTimeout(updateCoordinates , 300)")
+                        for (var i = 0; i < merged.length; i+=2){
+                            svgContainer.append("circle").attr("cx", merged[i] ).attr("cy",merged[i+1] ).style("fill", "purple").style("fill-opacity", .5).style("r", 5 );
+                        }
+                    }
+                });
+        });
+                });
+                function updateCoordinates() {
+                    d3.selectAll("circle").remove();
+                    var svgContainer = d3.select("body").select("svg");
+                    var svg = $("path");    
+                    var str = svg.attr("d");
+                    var str2 = str.split(" ");
+                    str2[0] = str2[0].substring(1,4);
+                    str2[str2.length-1] = str2[str2.length-1].substring(0,3);
+                    for (var j = 1 ; j< str2.length-1 ; j++){
+                        str2[j] = str2[j].split("L");
+                    }
+                    var merged = [].concat.apply([], str2);
+                    for (var i = 0; i < merged.length; i+=2){
+                        svgContainer.append("circle").attr("cx", merged[i] ).attr("cy",merged[i+1] ).style("fill", "purple").style("fill-opacity", .5).style("r", 5);
+                    }   
+                }
+    </script>
 
 </body>
 </html>
