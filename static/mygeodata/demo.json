@@ -37,6 +37,6061 @@
       "properties": {
         "FIRST_FLD": "First",
         "SECOND_FLD": "Polygon"
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.823696,
+            33.411130051
+          ],
+          [
+            -111.823696,
+            33.410848
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 1,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.823696,
+            33.411130051
+          ],
+          [
+            -111.823696,
+            33.412944
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 2,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.823696,
+            33.410848
+          ],
+          [
+            -111.822896,
+            33.410848
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 3,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.823696,
+            33.410848
+          ],
+          [
+            -111.8258589,
+            33.410848004
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 4,
+        "NUM_CRIMES": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.823696,
+            33.410848
+          ],
+          [
+            -111.823696,
+            33.409034051
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 5,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.823696,
+            33.412944
+          ],
+          [
+            -111.824512,
+            33.412944
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 6,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.823696,
+            33.412944
+          ],
+          [
+            -111.823232,
+            33.413008
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 7,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.823696,
+            33.412944
+          ],
+          [
+            -111.82434489,
+            33.414674396
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 8,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83,
+            33.415248
+          ],
+          [
+            -111.830096,
+            33.416304
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 9,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83,
+            33.415248
+          ],
+          [
+            -111.831392,
+            33.415248
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 10,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83,
+            33.415248
+          ],
+          [
+            -111.8288,
+            33.415248
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 11,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.830096,
+            33.416304
+          ],
+          [
+            -111.831392,
+            33.416352
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 12,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.830096,
+            33.416304
+          ],
+          [
+            -111.828768,
+            33.416256
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 13,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83585875,
+            33.420197798
+          ],
+          [
+            -111.836624,
+            33.420208
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 14,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83585875,
+            33.420197798
+          ],
+          [
+            -111.835424,
+            33.420192
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 15,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.836624,
+            33.420208
+          ],
+          [
+            -111.83664,
+            33.420608
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 16,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.836624,
+            33.420208
+          ],
+          [
+            -111.836592,
+            33.4196
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 17,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83664,
+            33.420608
+          ],
+          [
+            -111.835408,
+            33.420608
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 18,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83664,
+            33.420608
+          ],
+          [
+            -111.836688,
+            33.421744
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 19,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.835408,
+            33.420608
+          ],
+          [
+            -111.835424,
+            33.420192
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 20,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831392,
+            33.415248
+          ],
+          [
+            -111.832688,
+            33.415248
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 21,
+        "NUM_CRIMES": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831392,
+            33.415248
+          ],
+          [
+            -111.831376,
+            33.41424
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 22,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831392,
+            33.415248
+          ],
+          [
+            -111.831392,
+            33.416352
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 23,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.832688,
+            33.415248
+          ],
+          [
+            -111.833888,
+            33.415248
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 24,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.832688,
+            33.415248
+          ],
+          [
+            -111.832688,
+            33.413434052
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 25,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.833888,
+            33.415248
+          ],
+          [
+            -111.83605101,
+            33.415248005
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 26,
+        "NUM_CRIMES": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.833888,
+            33.415248
+          ],
+          [
+            -111.8339141,
+            33.413434184
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 27,
+        "NUM_CRIMES": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.833888,
+            33.415248
+          ],
+          [
+            -111.83392,
+            33.4164
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 28,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83605101,
+            33.415248005
+          ],
+          [
+            -111.836592,
+            33.415248
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 29,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.836592,
+            33.415248
+          ],
+          [
+            -111.83875501,
+            33.415248004
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 30,
+        "NUM_CRIMES": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.836592,
+            33.415248
+          ],
+          [
+            -111.836592,
+            33.414144
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 31,
+        "NUM_CRIMES": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.836592,
+            33.415248
+          ],
+          [
+            -111.836592,
+            33.416448
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 32,
+        "NUM_CRIMES": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83875501,
+            33.415248004
+          ],
+          [
+            -111.8392,
+            33.415248
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 33,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8392,
+            33.415248
+          ],
+          [
+            -111.839792,
+            33.415248
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 34,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8392,
+            33.415248
+          ],
+          [
+            -111.8392,
+            33.414144
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 35,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8392,
+            33.415248
+          ],
+          [
+            -111.8392,
+            33.415626052
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 36,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.839792,
+            33.415248
+          ],
+          [
+            -111.839824,
+            33.416544
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 37,
+        "NUM_CRIMES": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.839792,
+            33.415248
+          ],
+          [
+            -111.839808,
+            33.41424
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 38,
+        "NUM_CRIMES": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8236,
+            33.415248
+          ],
+          [
+            -111.82456,
+            33.415248
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 39,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8236,
+            33.415248
+          ],
+          [
+            -111.822784,
+            33.415248
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 40,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8236,
+            33.415248
+          ],
+          [
+            -111.823584,
+            33.416352
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 41,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.82456,
+            33.415248
+          ],
+          [
+            -111.826288,
+            33.415248
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 42,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.82456,
+            33.415248
+          ],
+          [
+            -111.82434489,
+            33.414674396
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 43,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.826288,
+            33.415248
+          ],
+          [
+            -111.82845101,
+            33.415248003
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 44,
+        "NUM_CRIMES": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.826288,
+            33.415248
+          ],
+          [
+            -111.826256,
+            33.416352
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 45,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.826288,
+            33.415248
+          ],
+          [
+            -111.826288,
+            33.413434052
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 46,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.822784,
+            33.415248
+          ],
+          [
+            -111.82278626,
+            33.415546089
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 47,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.822784,
+            33.415248
+          ],
+          [
+            -111.82287593,
+            33.413435691
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 48,
+        "NUM_CRIMES": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.82845101,
+            33.415248003
+          ],
+          [
+            -111.8288,
+            33.415248
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 49,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8288,
+            33.415248
+          ],
+          [
+            -111.828816,
+            33.414144
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 50,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8288,
+            33.415248
+          ],
+          [
+            -111.828768,
+            33.416256
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 51,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83984,
+            33.41744
+          ],
+          [
+            -111.839824,
+            33.416544
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 52,
+        "NUM_CRIMES": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83984,
+            33.41744
+          ],
+          [
+            -111.839856,
+            33.41904
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 53,
+        "NUM_CRIMES": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83984,
+            33.41744
+          ],
+          [
+            -111.8392,
+            33.41744
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 54,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.839856,
+            33.41904
+          ],
+          [
+            -111.839872,
+            33.419648
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 55,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.839872,
+            33.419648
+          ],
+          [
+            -111.839872,
+            33.420144
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 56,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.839872,
+            33.419648
+          ],
+          [
+            -111.839184,
+            33.419632
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 57,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.839872,
+            33.420144
+          ],
+          [
+            -111.839888,
+            33.421152
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 58,
+        "NUM_CRIMES": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.839888,
+            33.421152
+          ],
+          [
+            -111.839904,
+            33.421744
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 59,
+        "NUM_CRIMES": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.839904,
+            33.421744
+          ],
+          [
+            -111.839904,
+            33.421952
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 60,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.839904,
+            33.421744
+          ],
+          [
+            -111.839184,
+            33.421744
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 61,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.839904,
+            33.421952
+          ],
+          [
+            -111.83992,
+            33.422384
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 62,
+        "NUM_CRIMES": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83992,
+            33.422384
+          ],
+          [
+            -111.839184,
+            33.422384
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 63,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.839888,
+            33.408048
+          ],
+          [
+            -111.839888,
+            33.408752
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 64,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.839888,
+            33.408048
+          ],
+          [
+            -111.838992,
+            33.408032
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 65,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.839888,
+            33.408752
+          ],
+          [
+            -111.839872,
+            33.409536
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 66,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.839872,
+            33.409536
+          ],
+          [
+            -111.839856,
+            33.410848
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 67,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.839872,
+            33.409536
+          ],
+          [
+            -111.8392,
+            33.409536
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 68,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.839856,
+            33.410848
+          ],
+          [
+            -111.83984,
+            33.411648
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 69,
+        "NUM_CRIMES": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.839856,
+            33.410848
+          ],
+          [
+            -111.8392,
+            33.410848
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 70,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83984,
+            33.411648
+          ],
+          [
+            -111.83984,
+            33.412544
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 71,
+        "NUM_CRIMES": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83984,
+            33.412544
+          ],
+          [
+            -111.839824,
+            33.41296
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 72,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.839824,
+            33.41296
+          ],
+          [
+            -111.839824,
+            33.413344
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 73,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.839824,
+            33.41296
+          ],
+          [
+            -111.8392,
+            33.41296
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 74,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.839824,
+            33.413344
+          ],
+          [
+            -111.839808,
+            33.41424
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 75,
+        "NUM_CRIMES": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83355507,
+            33.417440003
+          ],
+          [
+            -111.833936,
+            33.41744
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 76,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83355507,
+            33.417440003
+          ],
+          [
+            -111.831392,
+            33.41744
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 77,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.833936,
+            33.41744
+          ],
+          [
+            -111.83609907,
+            33.417440004
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 78,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.833936,
+            33.41744
+          ],
+          [
+            -111.83392,
+            33.4164
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 79,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.833936,
+            33.41744
+          ],
+          [
+            -111.83394093,
+            33.417770195
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 80,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831392,
+            33.41744
+          ],
+          [
+            -111.83089901,
+            33.417437034
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 81,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831392,
+            33.41744
+          ],
+          [
+            -111.831392,
+            33.416352
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 82,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831392,
+            33.41744
+          ],
+          [
+            -111.831392,
+            33.417738053
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 83,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83609907,
+            33.417440004
+          ],
+          [
+            -111.836592,
+            33.41744
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 84,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.836592,
+            33.41744
+          ],
+          [
+            -111.83875507,
+            33.417440004
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 85,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.836592,
+            33.41744
+          ],
+          [
+            -111.836592,
+            33.416448
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 86,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.836592,
+            33.41744
+          ],
+          [
+            -111.836592,
+            33.417786053
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 87,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83875507,
+            33.417440004
+          ],
+          [
+            -111.8392,
+            33.41744
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 88,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8392,
+            33.41744
+          ],
+          [
+            -111.83919724,
+            33.417818087
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 89,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8392,
+            33.41744
+          ],
+          [
+            -111.8392,
+            33.415626052
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 90,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831328,
+            33.408752
+          ],
+          [
+            -111.831312,
+            33.407952
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 91,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831328,
+            33.408752
+          ],
+          [
+            -111.83133015,
+            33.409034088
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 92,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831312,
+            33.407952
+          ],
+          [
+            -111.831888,
+            33.407952
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 93,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831312,
+            33.407952
+          ],
+          [
+            -111.829696,
+            33.407936
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 94,
+        "NUM_CRIMES": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83133015,
+            33.409034088
+          ],
+          [
+            -111.831344,
+            33.410848
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 95,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831344,
+            33.410848
+          ],
+          [
+            -111.83134952,
+            33.411226187
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 96,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831344,
+            33.410848
+          ],
+          [
+            -111.8310109,
+            33.410848003
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 97,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83134952,
+            33.411226187
+          ],
+          [
+            -111.831376,
+            33.41304
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 98,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831376,
+            33.41304
+          ],
+          [
+            -111.831376,
+            33.41424
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 99,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831376,
+            33.41304
+          ],
+          [
+            -111.832688,
+            33.413024
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 100,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831376,
+            33.41304
+          ],
+          [
+            -111.83099441,
+            33.413032804
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 101,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831376,
+            33.41424
+          ],
+          [
+            -111.83097681,
+            33.414225397
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 102,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83257597,
+            33.419931294
+          ],
+          [
+            -111.832592,
+            33.419568
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 103,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83257597,
+            33.419931294
+          ],
+          [
+            -111.832496,
+            33.421744
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 104,
+        "NUM_CRIMES": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.832592,
+            33.419568
+          ],
+          [
+            -111.831392,
+            33.419552
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 105,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.832592,
+            33.419568
+          ],
+          [
+            -111.833968,
+            33.419584
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 106,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.832496,
+            33.421744
+          ],
+          [
+            -111.831392,
+            33.421744
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 107,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.832496,
+            33.421744
+          ],
+          [
+            -111.834,
+            33.421744
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 108,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8228,
+            33.41736
+          ],
+          [
+            -111.823568,
+            33.417376
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 109,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8228,
+            33.41736
+          ],
+          [
+            -111.8228,
+            33.417952
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 110,
+        "NUM_CRIMES": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8228,
+            33.41736
+          ],
+          [
+            -111.82278626,
+            33.415546089
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 111,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.823568,
+            33.417376
+          ],
+          [
+            -111.824896,
+            33.417392
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 112,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.823568,
+            33.417376
+          ],
+          [
+            -111.823584,
+            33.416352
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 113,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.823568,
+            33.417376
+          ],
+          [
+            -111.8235639,
+            33.417642204
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 114,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.824896,
+            33.417392
+          ],
+          [
+            -111.82624,
+            33.417392
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 115,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.824896,
+            33.417392
+          ],
+          [
+            -111.82488985,
+            33.417658393
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 116,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.82624,
+            33.417392
+          ],
+          [
+            -111.8272,
+            33.417408
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 117,
+        "NUM_CRIMES": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.82624,
+            33.417392
+          ],
+          [
+            -111.826256,
+            33.416352
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 118,
+        "NUM_CRIMES": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.82624,
+            33.417392
+          ],
+          [
+            -111.82623137,
+            33.417674648
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 119,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8272,
+            33.417408
+          ],
+          [
+            -111.828736,
+            33.417424
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 120,
+        "NUM_CRIMES": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8272,
+            33.417408
+          ],
+          [
+            -111.82720647,
+            33.417690388
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 121,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.828736,
+            33.417424
+          ],
+          [
+            -111.83089901,
+            33.417437034
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 122,
+        "NUM_CRIMES": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.828736,
+            33.417424
+          ],
+          [
+            -111.828768,
+            33.416256
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 123,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.828736,
+            33.417424
+          ],
+          [
+            -111.82873169,
+            33.417706202
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 124,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.832688,
+            33.413024
+          ],
+          [
+            -111.832688,
+            33.412048
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 125,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.832688,
+            33.413024
+          ],
+          [
+            -111.832688,
+            33.413434052
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 126,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.832688,
+            33.413024
+          ],
+          [
+            -111.83392,
+            33.413024
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 127,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831392,
+            33.419552
+          ],
+          [
+            -111.8308669,
+            33.419545753
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 128,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831392,
+            33.419552
+          ],
+          [
+            -111.831392,
+            33.417738053
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 129,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831392,
+            33.419552
+          ],
+          [
+            -111.831392,
+            33.419930054
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 130,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.833968,
+            33.419584
+          ],
+          [
+            -111.83613106,
+            33.419597193
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 131,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.833968,
+            33.419584
+          ],
+          [
+            -111.83394093,
+            33.417770195
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 132,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.833968,
+            33.419584
+          ],
+          [
+            -111.83397313,
+            33.419930193
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 133,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83613106,
+            33.419597193
+          ],
+          [
+            -111.836592,
+            33.4196
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 134,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.836592,
+            33.4196
+          ],
+          [
+            -111.837792,
+            33.419616
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 135,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.836592,
+            33.4196
+          ],
+          [
+            -111.836592,
+            33.417786053
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 136,
+        "NUM_CRIMES": 37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.837792,
+            33.419616
+          ],
+          [
+            -111.839184,
+            33.419632
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 137,
+        "NUM_CRIMES": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.837792,
+            33.419616
+          ],
+          [
+            -111.837792,
+            33.419930053
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 138,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.839184,
+            33.419632
+          ],
+          [
+            -111.83919724,
+            33.417818087
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 139,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.839184,
+            33.419632
+          ],
+          [
+            -111.839184,
+            33.419930053
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 140,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8228,
+            33.41944
+          ],
+          [
+            -111.823536,
+            33.419456
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 141,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8228,
+            33.41944
+          ],
+          [
+            -111.8228,
+            33.41904
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 142,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8228,
+            33.41944
+          ],
+          [
+            -111.8228,
+            33.420944
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 143,
+        "NUM_CRIMES": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.823536,
+            33.419456
+          ],
+          [
+            -111.824848,
+            33.419472
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 144,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.823536,
+            33.419456
+          ],
+          [
+            -111.8235639,
+            33.417642204
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 145,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.823536,
+            33.419456
+          ],
+          [
+            -111.82353067,
+            33.419818192
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 146,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.824848,
+            33.419472
+          ],
+          [
+            -111.826176,
+            33.419488
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 147,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.824848,
+            33.419472
+          ],
+          [
+            -111.82488985,
+            33.417658393
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 148,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.824848,
+            33.419472
+          ],
+          [
+            -111.82483943,
+            33.419866355
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 149,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.826176,
+            33.419488
+          ],
+          [
+            -111.827248,
+            33.419504
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 150,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.826176,
+            33.419488
+          ],
+          [
+            -111.82623137,
+            33.417674648
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 151,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.826176,
+            33.419488
+          ],
+          [
+            -111.82616418,
+            33.419898582
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 152,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.827248,
+            33.419504
+          ],
+          [
+            -111.828704,
+            33.41952
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 153,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.827248,
+            33.419504
+          ],
+          [
+            -111.82720647,
+            33.417690388
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 154,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.827248,
+            33.419504
+          ],
+          [
+            -111.82725714,
+            33.419930347
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 155,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.828704,
+            33.41952
+          ],
+          [
+            -111.8308669,
+            33.419545753
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 156,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.828704,
+            33.41952
+          ],
+          [
+            -111.828704,
+            33.419648
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 157,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.828704,
+            33.41952
+          ],
+          [
+            -111.82873169,
+            33.417706202
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 158,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8264,
+            33.422448
+          ],
+          [
+            -111.827264,
+            33.422448
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 159,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8264,
+            33.422448
+          ],
+          [
+            -111.826096,
+            33.422448
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 160,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.827264,
+            33.422448
+          ],
+          [
+            -111.8276,
+            33.422448
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 161,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.827264,
+            33.422448
+          ],
+          [
+            -111.827296,
+            33.421744
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 162,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8276,
+            33.422448
+          ],
+          [
+            -111.82872,
+            33.42248
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 163,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8228,
+            33.422448
+          ],
+          [
+            -111.823488,
+            33.422448
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 164,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8228,
+            33.422448
+          ],
+          [
+            -111.8228,
+            33.421648
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 165,
+        "NUM_CRIMES": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.823488,
+            33.422448
+          ],
+          [
+            -111.82565119,
+            33.422448004
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 166,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.823488,
+            33.422448
+          ],
+          [
+            -111.823504,
+            33.421632
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 167,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.82565119,
+            33.422448004
+          ],
+          [
+            -111.826096,
+            33.422448
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 168,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.826096,
+            33.422448
+          ],
+          [
+            -111.826112,
+            33.421712
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 169,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.82872,
+            33.42248
+          ],
+          [
+            -111.83008,
+            33.422512
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 170,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.82872,
+            33.42248
+          ],
+          [
+            -111.8288,
+            33.421648
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 171,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83008,
+            33.422512
+          ],
+          [
+            -111.830592,
+            33.422528
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 172,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.830592,
+            33.422528
+          ],
+          [
+            -111.831392,
+            33.422544
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 173,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831392,
+            33.422544
+          ],
+          [
+            -111.832496,
+            33.422352
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 174,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831392,
+            33.422544
+          ],
+          [
+            -111.831392,
+            33.421744
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 175,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8228,
+            33.418768
+          ],
+          [
+            -111.8228,
+            33.417952
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 176,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8228,
+            33.418768
+          ],
+          [
+            -111.8228,
+            33.41904
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 177,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8228,
+            33.420944
+          ],
+          [
+            -111.8228,
+            33.421648
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 178,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.832496,
+            33.422352
+          ],
+          [
+            -111.834016,
+            33.422352
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 179,
+        "NUM_CRIMES": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.834016,
+            33.422352
+          ],
+          [
+            -111.834304,
+            33.422352
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 180,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.834016,
+            33.422352
+          ],
+          [
+            -111.834,
+            33.421744
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 181,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.834304,
+            33.422352
+          ],
+          [
+            -111.835712,
+            33.422368
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 182,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.835712,
+            33.422368
+          ],
+          [
+            -111.836608,
+            33.422368
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 183,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.836608,
+            33.422368
+          ],
+          [
+            -111.837104,
+            33.422368
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 184,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.836608,
+            33.422368
+          ],
+          [
+            -111.836688,
+            33.421744
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 185,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.837104,
+            33.422368
+          ],
+          [
+            -111.838,
+            33.422384
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 186,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.838,
+            33.422384
+          ],
+          [
+            -111.839184,
+            33.422384
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 187,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.839184,
+            33.422384
+          ],
+          [
+            -111.839184,
+            33.421744
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 188,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.822896,
+            33.40864
+          ],
+          [
+            -111.822896,
+            33.40784
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 189,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.822896,
+            33.40864
+          ],
+          [
+            -111.822896,
+            33.409034051
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 190,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.822896,
+            33.40784
+          ],
+          [
+            -111.823696,
+            33.407856
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 191,
+        "NUM_CRIMES": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.822896,
+            33.409034051
+          ],
+          [
+            -111.822896,
+            33.410848
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 192,
+        "NUM_CRIMES": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.822896,
+            33.410848
+          ],
+          [
+            -111.822896,
+            33.41144
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 193,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.822896,
+            33.41144
+          ],
+          [
+            -111.822896,
+            33.412048
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 194,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.822896,
+            33.412048
+          ],
+          [
+            -111.822896,
+            33.41304
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 195,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.822896,
+            33.41304
+          ],
+          [
+            -111.82287593,
+            33.413435691
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 196,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.822896,
+            33.41304
+          ],
+          [
+            -111.823232,
+            33.413008
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 197,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.82585896,
+            33.412944002
+          ],
+          [
+            -111.826288,
+            33.412944
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 198,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.82585896,
+            33.412944002
+          ],
+          [
+            -111.824512,
+            33.412944
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 199,
+        "NUM_CRIMES": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.826288,
+            33.412944
+          ],
+          [
+            -111.8276,
+            33.412976
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 200,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.826288,
+            33.412944
+          ],
+          [
+            -111.826288,
+            33.412624
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 201,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.826288,
+            33.412944
+          ],
+          [
+            -111.826288,
+            33.413434052
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 202,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8276,
+            33.412976
+          ],
+          [
+            -111.828832,
+            33.412992
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 203,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8276,
+            33.412976
+          ],
+          [
+            -111.82750462,
+            33.411163816
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 204,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.828832,
+            33.412992
+          ],
+          [
+            -111.83099441,
+            33.413032804
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 205,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.828832,
+            33.412992
+          ],
+          [
+            -111.828816,
+            33.414144
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 206,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.828832,
+            33.412992
+          ],
+          [
+            -111.82884554,
+            33.411178087
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 207,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.82585885,
+            33.408640003
+          ],
+          [
+            -111.826224,
+            33.40864
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 208,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.82585885,
+            33.408640003
+          ],
+          [
+            -111.823696,
+            33.40864
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 209,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.826224,
+            33.40864
+          ],
+          [
+            -111.82838685,
+            33.408640004
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 210,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.826224,
+            33.40864
+          ],
+          [
+            -111.826208,
+            33.407904
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 211,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.826224,
+            33.40864
+          ],
+          [
+            -111.82623544,
+            33.409034586
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 212,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.823696,
+            33.40864
+          ],
+          [
+            -111.823696,
+            33.407856
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 213,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.823696,
+            33.40864
+          ],
+          [
+            -111.823696,
+            33.409034051
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 214,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.82838685,
+            33.408640004
+          ],
+          [
+            -111.82888,
+            33.40864
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 215,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.82888,
+            33.40864
+          ],
+          [
+            -111.828896,
+            33.407952
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 216,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.82888,
+            33.40864
+          ],
+          [
+            -111.82887429,
+            33.409034184
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 217,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8258589,
+            33.410848004
+          ],
+          [
+            -111.826288,
+            33.410848
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 218,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.826288,
+            33.410848
+          ],
+          [
+            -111.827488,
+            33.410848
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 219,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.826288,
+            33.410848
+          ],
+          [
+            -111.826288,
+            33.411984
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 220,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.826288,
+            33.410848
+          ],
+          [
+            -111.82623544,
+            33.409034586
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 221,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.827488,
+            33.410848
+          ],
+          [
+            -111.828848,
+            33.410848
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 222,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.827488,
+            33.410848
+          ],
+          [
+            -111.82750462,
+            33.411163816
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 223,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.828848,
+            33.410848
+          ],
+          [
+            -111.8310109,
+            33.410848003
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 224,
+        "NUM_CRIMES": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.828848,
+            33.410848
+          ],
+          [
+            -111.82887429,
+            33.409034184
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 225,
+        "NUM_CRIMES": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.828848,
+            33.410848
+          ],
+          [
+            -111.82884554,
+            33.411178087
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 226,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83611283,
+            33.408961429
+          ],
+          [
+            -111.836592,
+            33.408944
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 227,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83611283,
+            33.408961429
+          ],
+          [
+            -111.833952,
+            33.40904
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 228,
+        "NUM_CRIMES": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.836592,
+            33.408944
+          ],
+          [
+            -111.836592,
+            33.40903405
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 229,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.833952,
+            33.40904
+          ],
+          [
+            -111.833936,
+            33.410848
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 230,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.833952,
+            33.40904
+          ],
+          [
+            -111.833952,
+            33.408752
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 231,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.837888,
+            33.409552
+          ],
+          [
+            -111.8392,
+            33.409536
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 232,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.837888,
+            33.409552
+          ],
+          [
+            -111.837856,
+            33.410848
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 233,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.837888,
+            33.409552
+          ],
+          [
+            -111.837888,
+            33.40904
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 234,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8392,
+            33.409536
+          ],
+          [
+            -111.8392,
+            33.410848
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 235,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8392,
+            33.409536
+          ],
+          [
+            -111.8392,
+            33.408848
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 236,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83875499,
+            33.414144004
+          ],
+          [
+            -111.8392,
+            33.414144
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 237,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83875499,
+            33.414144004
+          ],
+          [
+            -111.836592,
+            33.414144
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 238,
+        "NUM_CRIMES": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8392,
+            33.414144
+          ],
+          [
+            -111.8392,
+            33.41296
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 239,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.836592,
+            33.414144
+          ],
+          [
+            -111.836592,
+            33.412992
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 240,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8360989,
+            33.410848004
+          ],
+          [
+            -111.836592,
+            33.410848
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 241,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8360989,
+            33.410848004
+          ],
+          [
+            -111.833936,
+            33.410848
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 242,
+        "NUM_CRIMES": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.836592,
+            33.410848
+          ],
+          [
+            -111.837856,
+            33.410848
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 243,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.836592,
+            33.410848
+          ],
+          [
+            -111.836592,
+            33.40903405
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 244,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.836592,
+            33.410848
+          ],
+          [
+            -111.836592,
+            33.411178051
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 245,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.833936,
+            33.410848
+          ],
+          [
+            -111.83393334,
+            33.411210085
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 246,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.837856,
+            33.410848
+          ],
+          [
+            -111.8392,
+            33.410848
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 247,
+        "NUM_CRIMES": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.837856,
+            33.410848
+          ],
+          [
+            -111.83784654,
+            33.411162628
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 248,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8392,
+            33.410848
+          ],
+          [
+            -111.8392,
+            33.411146051
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 249,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83392,
+            33.413024
+          ],
+          [
+            -111.83608274,
+            33.412998103
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 250,
+        "NUM_CRIMES": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83392,
+            33.413024
+          ],
+          [
+            -111.83393334,
+            33.411210085
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 251,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83392,
+            33.413024
+          ],
+          [
+            -111.8339141,
+            33.413434184
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 252,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83608274,
+            33.412998103
+          ],
+          [
+            -111.836592,
+            33.412992
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 253,
+        "NUM_CRIMES": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.836592,
+            33.412992
+          ],
+          [
+            -111.837792,
+            33.412976
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 254,
+        "NUM_CRIMES": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.836592,
+            33.412992
+          ],
+          [
+            -111.836592,
+            33.411178051
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 255,
+        "NUM_CRIMES": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.837792,
+            33.412976
+          ],
+          [
+            -111.8392,
+            33.41296
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 256,
+        "NUM_CRIMES": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.837792,
+            33.412976
+          ],
+          [
+            -111.83784654,
+            33.411162628
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 257,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8392,
+            33.41296
+          ],
+          [
+            -111.8392,
+            33.411146051
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 258,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83097681,
+            33.414225397
+          ],
+          [
+            -111.830064,
+            33.414192
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 259,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.828816,
+            33.414144
+          ],
+          [
+            -111.830064,
+            33.414192
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 260,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.838992,
+            33.408032
+          ],
+          [
+            -111.837888,
+            33.408016
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 261,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831888,
+            33.407952
+          ],
+          [
+            -111.832688,
+            33.407968
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 262,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.832688,
+            33.407968
+          ],
+          [
+            -111.833968,
+            33.407968
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 263,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.833968,
+            33.407968
+          ],
+          [
+            -111.835088,
+            33.407984
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 264,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.833968,
+            33.407968
+          ],
+          [
+            -111.833952,
+            33.408752
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 265,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.835088,
+            33.407984
+          ],
+          [
+            -111.836592,
+            33.408
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 266,
+        "NUM_CRIMES": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.836592,
+            33.408
+          ],
+          [
+            -111.837888,
+            33.408016
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 267,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.823696,
+            33.407856
+          ],
+          [
+            -111.824896,
+            33.407872
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 268,
+        "NUM_CRIMES": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.824896,
+            33.407872
+          ],
+          [
+            -111.826208,
+            33.407904
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 269,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.826208,
+            33.407904
+          ],
+          [
+            -111.827088,
+            33.40792
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 270,
+        "NUM_CRIMES": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.827088,
+            33.40792
+          ],
+          [
+            -111.828896,
+            33.407952
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 271,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.828896,
+            33.407952
+          ],
+          [
+            -111.829696,
+            33.407936
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 272,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831392,
+            33.416352
+          ],
+          [
+            -111.83355449,
+            33.416393063
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 273,
+        "NUM_CRIMES": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831392,
+            33.419930054
+          ],
+          [
+            -111.831392,
+            33.421744
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 274,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.831392,
+            33.421744
+          ],
+          [
+            -111.83096107,
+            33.421728043
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 275,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.82574704,
+            33.416352004
+          ],
+          [
+            -111.826256,
+            33.416352
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 276,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.82574704,
+            33.416352004
+          ],
+          [
+            -111.823584,
+            33.416352
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 277,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.828704,
+            33.419648
+          ],
+          [
+            -111.82838971,
+            33.420007193
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 278,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.82838971,
+            33.420007193
+          ],
+          [
+            -111.828256,
+            33.42016
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 279,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8288,
+            33.421648
+          ],
+          [
+            -111.828624,
+            33.4212
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 280,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8288,
+            33.421648
+          ],
+          [
+            -111.83096107,
+            33.421728043
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 281,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.828624,
+            33.4212
+          ],
+          [
+            -111.828272,
+            33.420736
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 282,
+        "NUM_CRIMES": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.828272,
+            33.420736
+          ],
+          [
+            -111.828208,
+            33.420688
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 283,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.828208,
+            33.420688
+          ],
+          [
+            -111.828208,
+            33.420448
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 284,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.828208,
+            33.420448
+          ],
+          [
+            -111.828256,
+            33.42016
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 285,
+        "NUM_CRIMES": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.823504,
+            33.421632
+          ],
+          [
+            -111.8248,
+            33.42168
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 286,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.823504,
+            33.421632
+          ],
+          [
+            -111.82353067,
+            33.419818192
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 287,
+        "NUM_CRIMES": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8248,
+            33.42168
+          ],
+          [
+            -111.826112,
+            33.421712
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 288,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.8248,
+            33.42168
+          ],
+          [
+            -111.82483943,
+            33.419866355
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 289,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.826112,
+            33.421712
+          ],
+          [
+            -111.827296,
+            33.421744
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 290,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.826112,
+            33.421712
+          ],
+          [
+            -111.82616418,
+            33.419898582
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 291,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.827296,
+            33.421744
+          ],
+          [
+            -111.82725714,
+            33.419930347
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 292,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83355449,
+            33.416393063
+          ],
+          [
+            -111.83392,
+            33.4164
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 293,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83392,
+            33.4164
+          ],
+          [
+            -111.83608255,
+            33.416438853
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 294,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83608255,
+            33.416438853
+          ],
+          [
+            -111.836592,
+            33.416448
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 295,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.834,
+            33.421744
+          ],
+          [
+            -111.83616317,
+            33.421744005
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 296,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.834,
+            33.421744
+          ],
+          [
+            -111.83397313,
+            33.419930193
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 297,
+        "NUM_CRIMES": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.83616317,
+            33.421744005
+          ],
+          [
+            -111.836688,
+            33.421744
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 298,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.836688,
+            33.421744
+          ],
+          [
+            -111.837792,
+            33.421744
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 299,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.837792,
+            33.421744
+          ],
+          [
+            -111.839184,
+            33.421744
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 300,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.837792,
+            33.421744
+          ],
+          [
+            -111.837792,
+            33.419930053
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 301,
+        "NUM_CRIMES": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.839184,
+            33.421744
+          ],
+          [
+            -111.839184,
+            33.419930053
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 302,
+        "NUM_CRIMES": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.826288,
+            33.411984
+          ],
+          [
+            -111.826288,
+            33.412624
+          ]
+        ]
+      },
+      "properties": {
+        "STREET_ID": 303,
+        "NUM_CRIMES": 1
       }
     }
   ]

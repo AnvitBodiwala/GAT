@@ -4,10 +4,7 @@ Tutorials from http://socialabstractions-blog.tumblr.com/post/53391947460/expone
 Author: Ryan Steed
 10 July 2017
 '''
-
-from scipy.stats import logistic
 from scipy.misc import comb
-from itertools import product
 import numpy as np
 import pymc
 import networkx as nx
@@ -24,7 +21,6 @@ def resilience(G,iters,mu):
     params = calc_params(G,type="resilience")
     traces = trace(matrix=nx.to_numpy_matrix(G),params=params,iters=iters,burn=0,mu=mu)
     estimates = {coef: np.mean(trace) for coef, trace in traces.items()}
-    estimated_coefs, estimated_term_list = create_coefs(params=params, priors=estimates)
     return estimates, traces
 
 def calc_params(G,type="drag"):
@@ -195,10 +191,11 @@ def istarDelta(am,k):
         return(res)
     res = np.zeros(am.shape,dtype=int)
     n = am.shape[0]
-    for i,j in product(range(n),range(n)):
-        if i!=j:
-            nin = am[:,j].sum()-am[i,j]
-            res[i,j] = comb(nin,k-1,exact=True)
+    for i in range(n):
+        for j in range(n):
+            if i!=j:
+                nin = am[:,j].sum()-am[i,j]
+                res[i,j] = comb(nin,k-1,exact=True)
     return(res)
 
 def ostarDelta(am,k):
@@ -208,8 +205,9 @@ def ostarDelta(am,k):
         return(res)
     res = np.zeros(am.shape,dtype=int)
     n = am.shape[0]
-    for i,j in product(range(n),repeat=2):
-        if i!=j:
-            nin = am[i,:].sum()-am[i,j]
-            res[i,j] = comb(nin,k-1,exact=True)
+    for i in range(n):
+        for j in range(n):
+            if i!=j:
+                nin = am[i,:].sum()-am[i,j]
+                res[i,j] = comb(nin,k-1,exact=True)
     return(res)

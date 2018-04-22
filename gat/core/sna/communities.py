@@ -1,5 +1,4 @@
 import networkx as nx
-from gat.core.sna import resilience
 import scipy as sp
 from community import best_partition
 from collections import defaultdict

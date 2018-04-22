@@ -94,7 +94,7 @@
 
     <script>
         $(document).ready(function () {
-            setTimeout(getUpdate, 1000)
+            setTimeout(getUpdate, 1000);
         });
 
         function getUpdate() {
@@ -106,8 +106,9 @@
                     $("#output").empty();
                     var sentences = [];
                     for (var i = 0; i < data.length; i++) {
-                        sentences.push(data[i]);
+                        sentences.push(data[data.length - i]);
                     }
+
                     sentencesAppended = sentences.join("\n");
                     $("#output").append(sentencesAppended);
                     if(String(sentences[-1]) == "###FINISHED###"){
@@ -119,6 +120,7 @@
             setTimeout(getUpdate,1000);
 
         }
+
 
     </script>
 </head>

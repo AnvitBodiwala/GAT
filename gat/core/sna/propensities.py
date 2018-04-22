@@ -17,7 +17,6 @@ IO_keys = ["Warmth", "Affiliation", "Legitimacy", "Dominance", "Competence"]
 legit_keys = ["Title","Role","Belief","Knowledge"]
 dom_keys = ["Resource","Knowledge"]
 
-# TODO this needs to be done graphically - shoddy rank-based solution below
 # lists all emotions in 180 degree wheels, from anger to fear, for each level of plutchik's wheel
 threatRanking = {
     "low":[
@@ -300,7 +299,7 @@ def IOCalc(graph, source, target):
                     src_w = float(src_val[1]["W"]) if "W" in src_val[1] else None
                     trg_w = float(trg_val[1]["W"]) if "W" in trg_val[1] else None
 
-                    aff_w = src_w ** 2 * trg_w ** 2 if src_w is not None and trg_w is not None else None  # 3d parabola
+                    aff_w = src_w ** 2 + trg_w ** 2 - 1 if src_w is not None and trg_w is not None else None  # 3d parabola
 
                     ### Warmth IO ###
                     # Warmth IO is simply affect of source towards target
@@ -427,7 +426,8 @@ def roleCalc(IO, roles):
     src_role_key = role_keys.index(roles[0])
     trg_role_key = role_keys.index(roles[1])
     weighted_avg = np.mean([a*np.random.uniform(low=b[0],high=b[1]) for a,b in zip(IO,role_weight_table[src_role_key][trg_role_key])])
-    if weighted_avg > 0.5:
-        return (role_labels[src_role_key][trg_role_key][0],weighted_avg)
+    #TODO use the mean average weight instead of 0 to delineate role label
+    if weighted_avg > 0:
+        return role_labels[src_role_key][trg_role_key][0], weighted_avg
     else:
-        return (role_labels[src_role_key][trg_role_key][1], weighted_avg)
+        return role_labels[src_role_key][trg_role_key][1], weighted_avg

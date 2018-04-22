@@ -56,7 +56,7 @@
                 systemMeasures contains measures where key is name of measure, value is measure value
                 also contains dictionary of measure descriptions (systemMeasures["Description"]) used for tooltips
               -->
-              {% if measure not in ["Resilience","Description","Cliques","SentimentDict","Robustness"] -%}
+              {% if measure not in ["Resilience","Description","Cliques","SentimentDict","Robustness","Trace"] -%}
               <i class="fa fa-info-circle" data-toggle="tooltip" data-placement="left" title="{{systemMeasures['Description'][measure]}}"></i>
               {{ measure }}: {{ systemMeasures[measure] }}
               {% endif -%}
@@ -99,49 +99,7 @@
           </div>
           <!-- handle resilience -->
           <div id="resilienceInfo">
-            {% if systemMeasures.get("Resilience") == None -%}
-              <form id="resilienceForm" enctype="multipart/form-data" method="post">
-                <input id="resilience" name="resilienceSubmit" type="submit" value="Calculate Resilience" onclick="handleResilienceClick();" href="javascript:void(0)" data-toggle="tooltip" data-placement="left" title="{{systemMeasures['Description']['Resilience']}}"/>
-              </form>
-            {% else -%}
-            <table id="resilienceTable">
-                <tr>
-                    <th style="text-align:center" colspan="4">Resilience Measures</th>
-                    <td rowspan="1000" class="resilienceGradient"></td>
-                    <td>High</td>
-                </tr>
-                <tr>
-                    <th>Cliques</th>
-                    <th>Baseline</th>
-                    <th>Resilience</th>
-                    <th>Robustness</th>
-                </tr>
-                {% for cluster in systemMeasures['Baseline'] -%}
-                <tr>
-                    <td class="node">{{ cluster }}</td>
-                    <td>
-                        {{ systemMeasures['Baseline'][cluster][0] }}
-                        <div class="colorCode"
-                             style="background-color:rgb({{systemMeasures['Baseline'][cluster][1]}}%,0%,{{systemMeasures['Baseline'][cluster][2]}}%)"></div>
-                    </td>
-                    <td>
-                        {{ systemMeasures['Resilience'][cluster][0] }}
-                        <div class="colorCode"
-                             style="background-color:rgb({{systemMeasures['Resilience'][cluster][1]}}%,0%,{{systemMeasures['Resilience'][cluster][2]}}%)"></div>
-                    </td>
-                    <td>
-                        {{ systemMeasures['Robustness'][cluster][0] }}
-                        <div class="colorCode"
-                             style="background-color:rgb({{systemMeasures['Robustness'][cluster][1]}}%,0%,{{systemMeasures['Robustness'][cluster][2]}}%)"></div>
-                    </td>
-                </tr>
-                {% endfor -%}
-                <tr>
-                  <td colspan="4"></td>
-                  <td>Low</td>
-                </tr>
-            </table>
-            {% endif -%}
+              View Resilience measures in the Dashboard.
           </div>
           <!-- node-dependent measures updated dynamically with js -->
           <div class="top-border"><b>Node-Dependent Measures</b></div>
